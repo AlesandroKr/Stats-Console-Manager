@@ -1,0 +1,14 @@
+# Maven
+**/target/
+
+# Java compilado
+*.class
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# IDEs (opcional)
+.idea/
+
+section.json
